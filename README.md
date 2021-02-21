@@ -7,7 +7,7 @@
 It's good to have a template for multiple related things.
 
 ## Sounds great, but...
-You are interested in this topic? But the idea is gibberish and incomplete, or non-sense? You're probably right! 
+You are interested in this topic? But the idea is gibberish and incomplete, or non-sense? Well, you're probably right! 
 
 All of this is work in progress -- I would be very happy if you get in touch so we can improve this!
 
