@@ -6,6 +6,11 @@
 ## This idea in {number-of-characters} characters
 It's good to have a template for multiple related things.
 
+## Sounds great, but...
+You are interested in this topic? But the idea is gibberish and incomplete, or non-sense? You're probably right! 
+
+All of this is work in progress -- I would be very happy if you get in touch so we can improve this!
+
 ## How to Use
 You are free to use this idea in whatever way you like. I put this material under CC-BY license, just to make it legally clear, but: "Gedanken sind frei" (ideas are free) -- I don't expect them to be protectable anyway.
 
