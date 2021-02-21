@@ -1,13 +1,14 @@
 {
-    "description": "{Description goes here}.", 
-    "title": "Robert's Farm of Ideas: {running-number-of-idea} -- {running-title-of-idea}", 
+    "description": "DESCRIPTION_GOES_HERE.", 
+    "title": "Robert's Farm of Ideas: RUNNING_NUMBER_OF_IDEA -- RUNNING_TITLE_OF_IDEA", 
     "license": {
         "id": "CC-BY-4.0"
     }, 
-    "notes": "Development is happening here: https://github.com/roberts-farm-of-ideas/{running-number-of-idea}", 
+    "notes": "Development is happening here: https://github.com/roberts-farm-of-ideas/RUNNING_NUMBER_OF_IDEA", 
     "keywords": [
-        "{keyword1}",
-        "{keyword2}"
+        "KEYWORD1",
+        "",
+        "KEYWORDLAST"
     ],
     "creators": [
     {
