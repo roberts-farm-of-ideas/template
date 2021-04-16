@@ -1,9 +1,9 @@
 # Robert's Farm of Ideas: RUNNING_IDEA_NUMBER
 
-[![DOI of this idea](https://zenodo.org/badge/doi/DOI_FROM_ZENODO.svg)](https://doi.org/DOI_FROM_ZENODO)
+[![DOI of this idea](https://zenodo.org/badge/doi/CONCEPT_DOI_FROM_ZENODO.svg)](https://doi.org/CONCEPT_DOI_FROM_ZENODO)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-## This idea in NUMBER_OF_CHARACTERS characters
+## This idea in short
 It's good to have a template for multiple related things.
 
 ## Sounds great, but...
